@@ -11,7 +11,7 @@ from tkinter import ttk
 
 # ElevenLabs API
 client = ElevenLabs(
-    api_key="sk_c29604a4e2824cef6fb404682c41fd5445b117c5ac7f2497",
+    api_key="YOUR_API_KEy",
 )
 
 def record_audio_to_bytes(duration=5, samplerate=44100):
