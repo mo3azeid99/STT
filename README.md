@@ -22,7 +22,7 @@ It supports both **Arabic** and **English** languages and comes with a simple gr
 4. Speak into your microphone, and your voice will be transcribed into text instantly.  
 
 ### 🔹 Run from Source
-Make sure you have **Python 3.8+** installed.  
+Make sure you have **Python 3.10+** installed.  
 
 ```bash
 # Clone the repo
